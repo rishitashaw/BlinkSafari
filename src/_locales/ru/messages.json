@@ -3,11 +3,11 @@
     "message": "Привет, Мир!"
   },
   "appName": {
-    "message": "React Web Extension Boilerplate",
+    "message": "BlinkSafari",
     "description": "Название расширения для магазина расширений."
   },
   "appShortName": {
-    "message": "RWEB",
+    "message": "BS",
     "description": "Короткая (рекомендовано максимум 12 символов) версия названия расширения."
   },
   "appDesc": {
