@@ -18,6 +18,11 @@ shadow.appendChild(appContainer);
 document.body.appendChild(root);
 
 const App = () => {
+  useEffect(() => {
+    return () => {
+
+    };
+  }, [])
   return (
     <StyleSheetManager target={styleContainer}>
       <ThemeProvider theme={defaultTheme}>
